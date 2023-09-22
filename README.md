@@ -8,7 +8,7 @@
 </div>
 <div align="center">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
+        <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=C++&logoColor=white" />
         
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyung-Gunny&show_icons=true&theme=radical)
