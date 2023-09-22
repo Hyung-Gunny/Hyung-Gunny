@@ -1,2 +1,2 @@
 
-<img src="https://img.shields.io/badge/#000000-000000?style=flat&logo=programmer-gun&logoColor=000000"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyung-Gunny&show_icons=true&theme=radical)
