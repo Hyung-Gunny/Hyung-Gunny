@@ -8,8 +8,7 @@
 </div>
 <div align="center">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-
-        <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=Conda-Forge&logoColor=white" />
+        
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyung-Gunny&show_icons=true&theme=radical)
