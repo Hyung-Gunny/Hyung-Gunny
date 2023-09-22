@@ -18,7 +18,7 @@
         <p>🪪 SNS & E-Mail 🪪</p>
 </div>
 <div align=center>
-        <a href="podot3059@naver.com">
+        <a href="mailto::podot3059@naver.com">
                 <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
         </a>
         <a href="https://www.instagram.com/h__gun__/">
@@ -26,7 +26,12 @@
         </a>
         <a href="https://hyung-gunny.tistory.com/">
                 <img src="https://img.shields.io/badge/Tistroy-000000?style=flat&logo=tistory&logoColor=white" />
-        
-        
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyung-Gunny&show_icons=true&theme=radical)
+</div>
+<div align=center>
+        <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyung-Gunny&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=Hyung-Gunny&show_icons=true">
+
+![Park Hyunggun GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Hyung-Gunny)
+
