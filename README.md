@@ -3,8 +3,8 @@
 
 </div>
 <div align=center>
-        <h3>📚 Tech Stack 📚</h3>
-        <p>✨ Platforms & Languages ✨</p>
+        <h3>🖥️ Tech Stack 🖥️</h3>
+        <p>📖 Platforms & Languages 📖</p>
 </div>
 <div align="center">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -15,11 +15,17 @@
 </div>
 <br>
 <div align=center>
-        <p>🎨![image](https://github.com/Hyung-Gunny/Hyung-Gunny/assets/121531754/7646e6b6-5ae9-48a6-ae33-932b76884865)
- SNS & E-Mail 🎨</p>
+        <p>🪪 SNS & E-Mail 🪪</p>
 </div>
 <div align=center>
-        
+        <a href="podot3059@naver.com">
+                <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+        </a>
+        <a href="https://www.instagram.com/h__gun__/">
+                <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+        </a>
+        <a href="https://hyung-gunny.tistory.com/">
+                <img src="https://img.shields.io/badge/Tistroy-000000?style=flat&logo=tistory&logoColor=white" />
         
         
 
