@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+        <th><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /><th/>
 </div>
 <br>
 <div align=center>
