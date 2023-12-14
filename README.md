@@ -10,10 +10,10 @@
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFBstyle=flat&logo=React&logoColor=white" />
 </div>
 <br>
 <div align=center>
