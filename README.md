@@ -34,7 +34,7 @@
         <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyung-Gunny&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=Hyung-Gunny&show_icons=true">
-![Park Hyunggun GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Hyung-Gunny)
+
 
 <img src="https://github.com/Hyung-Gunny/Hyung-Gunny/blob/output/github-contribution-grid-snake.svg"/>
 
